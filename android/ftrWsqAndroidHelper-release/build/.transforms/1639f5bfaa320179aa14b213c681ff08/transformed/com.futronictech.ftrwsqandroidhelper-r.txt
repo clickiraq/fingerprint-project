@@ -1,0 +1,5 @@
+com.futronictech.ftrwsqandroidhelper
+drawable ic_action_search
+drawable ic_launcher
+string app_name
+style AppTheme

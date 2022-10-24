@@ -1,0 +1,5 @@
+com.futronictech.ftrscanapiandroidhelper
+drawable icon
+layout main
+string app_name
+string hello
